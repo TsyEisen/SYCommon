@@ -1,0 +1,6 @@
+framework module SYCommonKit {
+  umbrella header "SYCommonKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
